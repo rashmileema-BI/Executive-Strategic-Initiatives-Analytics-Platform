@@ -222,22 +222,5 @@ GROUP BY Business_Function;
 - KPI Visualization
 
 ---
-
-### Project Goals
-
-This project was designed to simulate:
-
-- Enterprise PMO analytics
-- Executive operational reporting
-- Strategic initiative monitoring
-- Real-world business intelligence workflows
-
-while demonstrating technical and analytical capabilities relevant to:
-
-- Data Analyst roles
-- Business Analyst roles
-- BI Analyst roles
-- Junior Data Engineering roles
-
 ---
 
